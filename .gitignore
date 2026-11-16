@@ -1,0 +1,22 @@
+# Compiled programs
+*.exe
+*.out
+a.out
+cinema
+
+# Build output
+build/
+cmake-build-*/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Runtime booking data (keep real/personal data out of Git)
+bookings.txt
