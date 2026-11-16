@@ -92,17 +92,6 @@ Each record uses this format:
 booking_id|movie_index|show_index|row_index|column_index|customer_name
 ```
 
-## Screenshots
-
-Add genuine screenshots of the running program to the `screenshots/` folder. Suggested captures:
-
-1. Main menu
-2. Seat layout showing available and booked seats
-3. Successful booking confirmation
-4. Booking history
-5. Sales summary
-
-See `screenshots/README.md` for guidance.
 
 ## Limitations
 
@@ -112,14 +101,5 @@ See `screenshots/README.md` for guidance.
 - Movie names, showtimes, seat capacity, and prices are currently defined in the source code.
 - The text-file storage is intended for a small academic project, not concurrent production use.
 
-## Future improvements
 
-- Add an administrator login and configurable movies/showtimes.
-- Use a database such as SQLite or MySQL.
-- Add booking receipts and customer contact details.
-- Add a graphical user interface.
-- Add automated unit tests.
 
-## Academic submission
-
-Update the project report with your actual name, enrollment number, course, faculty guide, and team details before submitting. Add only screenshots captured from your own program run.
